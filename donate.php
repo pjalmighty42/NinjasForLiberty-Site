@@ -32,7 +32,7 @@
 </div>
 <!-- .donate_icons -->
 
-<hr /><!-- EDIT THE DONATION FORM WITH YOUR OWN DONATELY ID --><script src='https://www.dntly.com/assets/js/v1/form.js' data-donately-id="1963" data-donately-css-url="https://dntly.com/assets/js/v1/form-inner/form-inner.css" data-donately-address="true" data-donately-phone="true" data-donately-comment="true" ></script></div>
+<hr /><!-- EDIT THE DONATION FORM WITH YOUR OWN DONATELY ID --><script src='https://www.dntly.com/assets/js/v1/form.js' data-donately-id="000" data-donately-css-url="https://dntly.com/assets/js/v1/form-inner/form-inner.css" data-donately-address="true" data-donately-phone="true" data-donately-comment="true" ></script></div>
 <!-- .entry-content --></article>
 <!-- #post-## --> </main><!-- #main .site-main --></div>
 <!-- .inner_content .large-12 --></div>
