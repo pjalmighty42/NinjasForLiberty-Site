@@ -5,6 +5,10 @@ ___
 
 ## Synopsis
 The NinjasForLiberty website was a website that I decided to join in to develop. It was as a way to fundraise for a Libertarian candidate during the last run of elections. I was able to finish the website to completetion, and afterwards was relased back into my schoolwork (at the time). The website started as a website templated and initally developed by Chase Reid.
+
+I was told that the website itself didn't exists anymore. I presume that this is a result of funding drying up or the site was no longe needed. So I had looked through my old folders and luckily found the whole project saved up on my home desktop. So I decided to sanitize the project (remove/replace sensitive information) and post up an addition to my GitHub repositories to show potiential employers examples of my work.
+
+I also have included this Readme as a way to help explain the whole process of turning a pure-HTML solution into a pure-PHP solution. Please feel free to read this document and feel free to check out my work!
 ___
 
 ## Development
